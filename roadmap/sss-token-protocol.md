@@ -4,43 +4,41 @@ description: The SSS Protocol
 
 # 🪙 SSS Token Protocol
 
-**SSS Token** will be the fuel that powers the entire ecosystem\
-\
-Ok, but How ? Here comes the funny part\
-\
-First, SSS token is an SPL token crafted on the Solana Blockchain.
+**SSS Token** will be the fuel that powers the entire ecosystem, it is a SPL token crafted on the Solana Blockchain.
 
-### Maximum Supply
+Right, but How ? Here comes the exciting part
 
-* The maximum supply is **11,111,111 SSST and will start from 0**
-* There will be 3 mining periods. **Each time a period ends we will reduce SSST staking rewards by 40%.**
-  * **1:** 4,000,000 SSST tokens mined.
-  * **2:** 7,000,000 SSST tokens mined.
-  * **3:** 9,000,000 SSST tokens mined.
+### Tokenomics
+
+* The maximum supply is **11,111,111 SSST and will start from 0 SSST**
+* There will be 3 staking subsequent periods. **The end of each period will reduce SSST staking rewards by 1 token..**
+  * **Period 1:** starting at 3,000,000 SSST tokens mined.
+  * **Period 2:** starting at 6,000,000 SSST tokens mined.
+  * **Period 3:** starting at 9,000,000 SSST tokens mined.
 
 ### Pray to Earn Ability
 
-The only way to mine SSS Token is to Stake your NFTs:
+The only way to mine SSS Token is by Staking your NFTs:
 
-* Solenoids has the ability to mine 10 SST x Day
-* Priests has the ability to mine 6 SST x Day
-* Nuns has the ability to mine 5 SSST x Day
-* Churches has the ability to mine 12 SSST x Day
-* The only way NFTs can mine SSST is via staking.
+* **Solenoids** has the ability to mine **7 SST** x Day
+* **Priests** has the ability to mine **6 SST** x Day
+* **Nuns** has the ability to mine **5 SSST** x Day
+* **Churches** has the ability to mine **9 SSST** x Day
+* _The only way to mine SSST is via NFT staking_.
 
-### Extra Ability (AutoDistruction):
+### Extra Ability (Self Destruction):
 
-#### Only for "The Solenoids"
+#### For "The Solenoids" only
 
 *   Solenoids can be burned by their holder to claim SSST held by the SSS treasury.
 
-    * Burning mechanics will be announced soon.
+    * Burning mechanics will be managed manually on our Ends.
     * Since the burn is paid by the SSS Treasury, if there isn't enough SSST in the Treasury, then the burn is queued.
 
     &#x20;
-* A "Burned" Solenoid is a Solenoid that's removed from circulation.&#x20;
+* A "Burned" Solenoid is gone for good and can't be recovered, inevitably reducing the Supply.&#x20;
 
-This is the formula used to calculate the amount of SSST a Solenoid can claim via burn:
+Here is the formula used to calculate the amount of SSST a Solenoid can claim via burn:
 
 ```
 SSST token quantity = 1000 - #Affiliated Number Trait (here explained Solenoid Rarity)
@@ -52,11 +50,11 @@ SSST token quantity = 1000 - #Affiliated Number Trait (here explained Solenoid R
 
 ### SSS Store
 
-* SSS will host SSST auctions & raffles for:
-  * Exclusive Whitelist Spots
-  * NFTs held in the SSS Treasury (link all'address)
+* SSS will host SSST auctions and/or raffles for:
+  * Exclusive Whitelist Spots;
+  * NFTs held in the SSS Treasury (BANKBtNejPr5sz1haNASm2r4FsMkbDN3eRZs91bz9PaF)
   * and a lot more...
-* Buy-it-now "The Churchain Trilogy or Solenoids" listings .
+* **Buy-it-now-events** for "The Churchain Trilogy or Solenoids" listings.
   * In the future, SSS Treasury could also acquire their own NFTs and list them for SSST on the SSS Store.
   * The Price will be calculated via the Burning formula for "The Solenoids" and via Rarity for "The ChurChain trilogy":\
     &#x20;SSST Quantity = 1000 + (# of Remaining DeGods - Rarity Ranking)
@@ -67,22 +65,13 @@ All SSST collected from the SSS Store will be held by the SSS Treasury.
 7.77% of SSST collected is distributed to our Core Team.
 {% endhint %}
 
-### Upgrades (Just an idea)
-
-* &#x20;We are also working on Upgraded Abilities on our Collections, for example the ability to Evolve the NFT to gain a boost on the staking.
-  * cost 1111 To evolve an NFTs
-  * generate 2x daily SSST yield.
-  * replace the image & metadata of the upgraded NFT.
-* visual traits will also be updated & rarity could be affected.
-  * the metadata will be updated with a new "Upgraded" attribute.
-* There will be no separate NFT/serum.
-  * upgrade applied directly to holder's selected NFT after SSST purchase.
-
 ### Solana Ecosystem
 
-* The SSS will actively be seeking & responding to opportunities to integrate our native SSS token utility into major projects in the Solana Ecosystem.
-* Examples Include:
-  * PvP & P2E NFT Games
-  * Casino/Betting Platforms
-  * Metaverse Integrations
-  * Accepted Currency in Marketplaces\
+The SSS will be actively seeking for & responding to opportunities to integrate our native SSS token utility into major projects in the Solana Ecosystem.\
+Examples Include:
+
+* NFT Games&#x20;
+* Metaverse
+* Accepted Currency in Marketplaces
+* Merch Store
+* infinite possibilities\
