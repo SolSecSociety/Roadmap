@@ -11,9 +11,9 @@ description: Learn how we manage raised funds
 
 **When Staking will be Released**, Royalties will get Updated:
 
-* **57%** will go directly to marketing & development
-* **33.3%** goes as always to **"The hell protocol"**
-* **9.7%** goes to the Team
+* **57%** Goes directly to **Marketing & Development**
+* **33.3%** Goes as always to **"The Hell Protocol"**
+* **9.7%** Goes to the **Team**
 
 ### The Hell Protocol
 
