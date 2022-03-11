@@ -13,7 +13,7 @@ description: Building Secretly & Releasing Amazingly
 
     1. **- The PriestChain (released)**: First off, 1117 priests on the Solana Blockchain arrive to revolutionize the NFTs space. The heroes of our collection come up to help and start their indoctrination mission to bring the much needed Faith in the crypto space.
     2. **- The NunChain (Minting 19th March 2022 - Presale at 5 pm UTC, Public at 6 pm UTC)**: After the PriestChain release, 1117 Nuns land to the aid of our heroes. Their prayers are vital to spread further the Priests' Faith message in the Crypto world. Also, with the advent of the nuns, the **"Hell Protocol"** will be introduced.
-    3.  **The ChurChain (Minting TBA)**: Finally, the Churches are built to create the ideal epicenter of newly formed faithful crypto communities, where unity is strength. At this stage **the staking** is ready to be deployed and our faithful holders will be able to get passive income from their NFTs.\
+    3.  **The ChurChain (Minting TBA)**: Finally, the Churches are built to create the ideal epicenter of newly formed faithful crypto communities, where unity is strength. At this stage the **"Staking System"** is ready to be deployed and our faithful holders will be able to get passive income from their NFTs.\
         \
         **\*\*IMPORTANT:** during this phase we are sending Airdrops to holders;\
         **here’s how Airdrops works:** every Sunday, the holders of 10 random NFTs from our collections will receive a divine blessing from heaven. 33% weekly SOL Royalties raised on secondary marketplaces will be airdropped (higher volume = higher prizes | more NFTs = more chances to win!)
