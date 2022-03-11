@@ -52,7 +52,7 @@ SSST token quantity = 1000 - #Affiliated Number Trait (here explained Solenoid R
 
 * SSS will host SSST auctions and/or raffles for:
   * Exclusive Whitelist Spots;
-  * NFTs held in the SSS Treasury (BANKBtNejPr5sz1haNASm2r4FsMkbDN3eRZs91bz9PaF)
+  * NFTs held in the SSS Treasury ([BANKBtNejPr5sz1haNASm2r4FsMkbDN3eRZs91bz9PaF](https://solscan.io/account/BANKBtNejPr5sz1haNASm2r4FsMkbDN3eRZs91bz9PaF))
   * and a lot more...
 * **Buy-it-now-events** for "The Churchain Trilogy or Solenoids" listings.
   * In the future, SSS Treasury could also acquire their own NFTs and list them for SSST on the SSS Store.

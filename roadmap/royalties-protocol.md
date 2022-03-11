@@ -22,7 +22,8 @@ This wallet will function as a growing fund that will be entirelly used to buy b
 
 About rarity, keep in mind: “Commons will become rare.” Let's assume that the floor mostly consists of common NFTs. As we sweep the floor and burn those NFTs, the supply will be significantly decreased raising the NFT value for every holder!\
 \
-**Burner Wallet address:** BurNycC5v567ZKDMFBhz5ihM6LtyonEMbTzmNfFsBWrA Fell Free to send scam coins/NFTs to this burner address to get rid of them.
+**Burner Wallet address:** [BurNycC5v567ZKDMFBhz5ihM6LtyonEMbTzmNfFsBWrA ](https://solscan.io/account/BurNycC5v567ZKDMFBhz5ihM6LtyonEMbTzmNfFsBWrA)\
+\*\*Fell Free to send scam coins/NFTs to this burner address to get rid of them.
 
 
 
