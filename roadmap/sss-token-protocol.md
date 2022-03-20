@@ -56,8 +56,8 @@ SSST token quantity = 1000 - #Affiliated Number Trait (here explained Solenoid R
   * and a lot more...
 * **Buy-it-now-events** for "The Churchain Trilogy or Solenoids" listings.
   * In the future, SSS Treasury could also acquire their own NFTs and list them for SSST on the SSS Store.
-  * The Price will be calculated via the Burning formula for "The Solenoids" and via Rarity for "The ChurChain trilogy":\
-    &#x20;SSST Quantity = 1000 + (# of Remaining DeGods - Rarity Ranking)
+  * The Price will be calculated via the Burning formula for "The Solenoids" and via Rarity for "The ChurChain trilogy".\
+    &#x20;SSST Quantity = 1000 + ( Rarity Ranking)
 
 {% hint style="info" %}
 All SSST collected from the SSS Store will be held by the SSS Treasury.
