@@ -32,7 +32,7 @@ The only way to mine SSS Token is by Staking your NFTs:
 
 *   Solenoids can be burned by their holder to claim SSST held by the SSS treasury.
 
-    * Burning mechanics will be managed manually on our Ends.
+    * Burning mechanics will be managed manually via a form on our website.
     * Since the burn is paid by the SSS Treasury, if there isn't enough SSST in the Treasury, then the burn is queued.
 
     &#x20;
