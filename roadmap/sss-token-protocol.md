@@ -23,7 +23,7 @@ The only way to mine SSS Token is by Staking your NFTs:
 * **Solenoids** has the ability to mine **7 SST** x Day
 * **Priests** has the ability to mine **6 SST** x Day
 * **Nuns** has the ability to mine **5 SSST** x Day
-* **Churches** has the ability to mine **9 SSST** x Day
+* **Churches** has the ability to mine **15 SSST** x Day
 * _The only way to mine SSST is via NFT staking_.
 
 ### Extra Ability (Self Destruction):
@@ -54,7 +54,7 @@ SSST token quantity = 1000 - #Affiliated Number Trait (here explained Solenoid R
   * Exclusive Whitelist Spots;
   * NFTs held in the SSS Treasury ([BANKBtNejPr5sz1haNASm2r4FsMkbDN3eRZs91bz9PaF](https://solscan.io/account/BANKBtNejPr5sz1haNASm2r4FsMkbDN3eRZs91bz9PaF))
   * and a lot more...
-* **Buy-it-now-events** for "The Churchain Trilogy or Solenoids" listings.
+* **More events** for listings.
   * In the future, SSS Treasury could also acquire their own NFTs and list them for SSST on the SSS Store.
   * The Price will be calculated via the Burning formula for "The Solenoids" and via Rarity for "The ChurChain trilogy".
 
@@ -70,6 +70,7 @@ The SSS will be actively seeking for & responding to opportunities to integrate 
 Examples Include:
 
 * NFT Games&#x20;
+* Discord Bots
 * Metaverse
 * Accepted Currency in Marketplaces
 * Merch Store
