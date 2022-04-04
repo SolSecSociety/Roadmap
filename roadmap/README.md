@@ -11,16 +11,13 @@ description: Building Secretly & Releasing Amazingly
 
 2.  **PHASE 2** - In Progress: The crypto space was once a place full of dreamers and enthusiastic innovators, but as result of recent facts lots of FUD spread out. **The ChurChain Trilogy** comes as the solution to the current situation; it is the first P2E - Pray to Earn NFT project and is made up of three collections:
 
-    1. **- The PriestChain (released)**: First off, 1117 priests on the Solana Blockchain arrive to revolutionize the NFTs space. The heroes of our collection come up to help and start their indoctrination mission to bring the much needed Faith in the crypto space.
-    2. **- The NunChain (Released)**: After the PriestChain release, 1117 Nuns land to the aid of our heroes. Their prayers are vital to spread further the Priests' Faith message in the Crypto world. Also, with the advent of the nuns, the **"Hell Protocol"** will be introduced.
-    3.  **The ChurChain (Minting 29 March - Presale 19:30 & Public 20 UTC)**: Finally, the Churches are built to create the ideal epicenter of newly formed faithful crypto communities, where unity is strength. At this stage the **"Staking System"** is ready to be deployed and our faithful holders will be able to get passive income from their NFTs! Pray to Earn !!!\
-        \
-        **\*\*IMPORTANT:** during this phase we are sending Airdrops to holders;\
-        **here’s how Airdrops works:** every Sunday, the holders of 10 random NFTs from our collections will receive a divine blessing from heaven. 33% weekly SOL Royalties raised on secondary marketplaces will be airdropped (higher volume = higher prizes | more NFTs = more chances to win!)
+    1. **- The PriestChain**: First off, 1117 priests on the Solana Blockchain arrive to revolutionize the NFTs space. The heroes of our collection come up to help and start their indoctrination mission to bring the much needed Faith in the crypto space.
+    2. **- The NunChain**: After the PriestChain release, 1117 Nuns land to the aid of our heroes. Their prayers are vital to spread further the Priests' Faith message in the Crypto world. Also, with the advent of the nuns, the **"Hell Protocol"** will be introduced.
+    3.  **The ChurChain**: Finally, the Churches are built to create the ideal epicenter of newly formed faithful crypto communities, where unity is strength. At this stage the **"Staking System"** is ready to be deployed and our faithful holders will be able to get passive income from their NFTs! Pray to Earn !!!
 
 
 
-    3\. **PHASE 3 - SSS Token Protocol Released:**\
+    3\. **PHASE 3 - $SSST - Token Protocol Released:**\
     \
     The staking process was initially thought for being powered by a Treasury vault. The vault was supposed to get rewards from royalties raised from sales on secondary markets.\
     As a matter of fact, this process can work well only with large volumes, but we came up with an innovative structure to make it work efficiently in any case.\

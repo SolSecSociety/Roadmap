@@ -4,14 +4,9 @@ description: Learn how we manage raised funds
 
 # 💰 Royalties Protocol
 
-* **33.3%** Goes to **"The Hell Protocol"**
-* **33.3%** Goes to **Airdrops** (This will be deactivated when staking will be released)
-* **33.3%** Goes to **Marketing & Development** \
-
-
 **When Staking will be Released**, Royalties will get Updated:
 
-* **57%** Goes directly to **Marketing & Development**
+* **57%** Goes directly to **Marketing & Bank Vault**
 * **33.3%** Goes as always to **"The Hell Protocol"**
 * **9.7%** Goes to the **Team**
 
@@ -27,7 +22,5 @@ About rarity, keep in mind: “Commons will become rare.” Let's assume that th
 
 
 
-### Airdrops
 
-Holders of **10 random NFTs** from our collections (Solenoids + ChurChain) will receive a divine blessing from heaven. 33% of the weekly SOL Royalties raised will be Airdropped every Sunday (more volume = higher prizes)
 
